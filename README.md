@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
 </div>
 
-
+<br>
 
 <h3 align="center">💻 Studying 💻</h3>
 <div align="center" style="display=flex">
