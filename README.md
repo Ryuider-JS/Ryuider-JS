@@ -22,7 +22,7 @@
 
 <h3 align="center">📞 Connect 📞</h3>
 <div align="center" style="display=flex">
-  <a href="https://velog.io/@ris8833" target="_blank">
+  <a href="https://velog.io/@rjs8833" target="_blank">
       <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog">
   </a>
   <a href="https://www.notion.so/yourworkspace" target="_blank">
