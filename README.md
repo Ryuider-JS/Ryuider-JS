@@ -22,6 +22,9 @@
 
 <h3 align="center">📞 Connect 📞</h3>
 <div align="center" style="display=flex">
+  <a href="https://numerous-marble-cec.notion.site/Ryuider-js-5570f66c9f9a4fe7835c062c57f0965f" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio">
+</a>
   <a href="https://velog.io/@rjs8833" target="_blank">
       <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog">
   </a>
