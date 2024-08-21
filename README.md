@@ -28,9 +28,6 @@
   <a href="https://velog.io/@rjs8833" target="_blank">
       <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog">
   </a>
-  <a href="https://www.notion.so/yourworkspace" target="_blank">
-      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
-  </a>
   <a href="mailto:rjs8833@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
