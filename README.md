@@ -57,12 +57,32 @@
 
 <br>
 
-## 📌 Post
-[![NextJS Server Action](https://velog-readme-stats.vercel.app/api?name=rjs8833)](https://velog.io/@rjs8833/NextJS-Server-Action%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-AWS-S3-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%A0%80%EC%9E%A5)
-[![Apollo Client & GraphQL Code generator](https://velog-readme-stats.vercel.app/api?name=rjs8833)](https://velog.io/@rjs8833/Apollo-Client)
-[![React Suspense](https://velog-readme-stats.vercel.app/api?name=rjs8833)](https://velog.io/@rjs8833/React-Suspense)
-[![Toss SLASH 24](https://velog-readme-stats.vercel.app/api?name=rjs8833)](https://velog.io/@rjs8833/Toss-SLASH-24-No-Limit-%ED%9B%84%EA%B8%B0)
 
+## 📌 Post
+
+<div align="center" style="display: flex; flex-direction: column; gap: 20px;">
+
+  <!-- 왼쪽 정렬 -->
+  <div style="display: flex; flex-direction: row; align-items: center; gap: 20px; justify-content: flex-start;">
+    <img src="https://velog-readme-stats.vercel.app/api?name=rjs8833&slug=NextJS-Server-Action%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-AWS-S3-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%A0%80%EC%9E%A5" alt="NextJS Server Action" width="400">
+  </div>
+
+  <!-- 오른쪽 정렬 -->
+  <div style="display: flex; flex-direction: row-reverse; align-items: center; gap: 20px; justify-content: flex-start;">
+    <img src="https://velog-readme-stats.vercel.app/api?name=rjs8833&slug=Apollo-Client" alt="Apollo Client" width="400">
+  </div>
+
+  <!-- 왼쪽 정렬 -->
+  <div style="display: flex; flex-direction: row; align-items: center; gap: 20px; justify-content: flex-start;">
+    <img src="https://velog-readme-stats.vercel.app/api?name=rjs8833&slug=React-Suspense" alt="React Suspense" width="400">
+  </div>
+
+  <!-- 오른쪽 정렬 -->
+  <div style="display: flex; flex-direction: row-reverse; align-items: center; gap: 20px; justify-content: flex-start;">
+    <img src="https://velog-readme-stats.vercel.app/api?name=rjs8833&slug=Toss-SLASH-24-No-Limit-%ED%9B%84%EA%B8%B0" alt="Toss SLASH 24" width="400">
+  </div>
+
+</div>
 
 
 <!--
