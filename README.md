@@ -60,8 +60,6 @@
 
 ## 📌 Post
 
-## 📌 Post
-
 <div align="center" style="display: flex; flex-direction: column; gap: 20px;">
 
   <div style="display: flex; flex-direction: row; align-items: center; gap: 20px; justify-content: flex-start;">
