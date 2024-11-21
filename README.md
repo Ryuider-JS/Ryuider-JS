@@ -57,10 +57,8 @@
 
 <br>
 
-## 📌 Recent Post
--[Apollo Client와 GraphQL Code Generator](https://velog.io/@rjs8833/Apollo-Client)
-
-<a href="https://velog-readme-stats.vercel.app/api/redirect?name=sally3921"><img src="https://velog-readme-stats.vercel.app/api?name=sally3921" /></a>
+## 📌... Post
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=rjs8833)](https://velog.io/@rjs8833/NextJS-Shallow-Routing-Parallel-Routing)
 
 
 
