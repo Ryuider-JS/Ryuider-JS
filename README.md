@@ -57,8 +57,11 @@
 
 <br>
 
-## 📌... Post
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=rjs8833)](https://velog.io/@rjs8833/NextJS-Shallow-Routing-Parallel-Routing)
+## 📌 Post
+[![NextJS Server Action](https://velog-readme-stats.vercel.app/api?name=rjs8833)](https://velog.io/@rjs8833/NextJS-Server-Action%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-AWS-S3-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%A0%80%EC%9E%A5)
+[![Apollo Client & GraphQL Code generator](https://velog-readme-stats.vercel.app/api?name=rjs8833)](https://velog.io/@rjs8833/Apollo-Client)
+[![React Suspense](https://velog-readme-stats.vercel.app/api?name=rjs8833)](https://velog.io/@rjs8833/React-Suspense)
+[![Toss SLASH 24](https://velog-readme-stats.vercel.app/api?name=rjs8833)](https://velog.io/@rjs8833/Toss-SLASH-24-No-Limit-%ED%9B%84%EA%B8%B0)
 
 
 
