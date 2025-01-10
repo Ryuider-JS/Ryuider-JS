@@ -97,6 +97,14 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rjs8833)](https://solved.ac/rjs8833/)
 
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/Ryuider-JS"
+  width="600"
+  height="300"
+/>
+</a>
+
 
 <!--
 **JiSeungRyu/JiSeungRyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
